@@ -2,7 +2,7 @@
 
 **Automated connectivity management and fault-tolerance system for NIBM students.**
 
-![Status](https://img.shields.io/badge/Status-Stable_v4.5-success) ![Platform](https://img.shields.io/badge/Platform-Windows_10%2F11-blue) ![Security](https://img.shields.io/badge/Security-Enterprise_Grade-shield)
+![Status](https://img.shields.io/badge/Status-Stable_v4.7-success) ![Platform](https://img.shields.io/badge/Platform-Windows_10%2F11-blue) ![Security](https://img.shields.io/badge/Security-Enterprise_Grade-shield)
 
 ## 🚀 Overview
 **Netlink Pro** is a robust desktop application designed to solve frequent network timeout and connectivity interruption issues. It replaces manual captive portal logins with an automated, intelligent background agent that ensures seamless internet access for uninterrupted workflow.
