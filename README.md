@@ -28,9 +28,15 @@
 3.  **Encrypted Config:** Local configuration files are encrypted using standard cryptographic libraries.
 
 ## 📥 Installation
-1.  Download the latest **`NIBM_Netlink_Pro.exe`** from the repository.
+1.  Download the latest **`Netlink_Pro_Enterprise.exe`** from the repository.
 2.  Run the application.
-3.  **First Run:** If the system is offline, use the "Contribute" tab to enter a single valid login to bootstrap the database connection.
+
+## 📖 How to Use
+1.  **CONNECT:** Ensure you are connected to the NIBM WiFi.
+2.  **MONITOR:** Go to the Monitor tab and click **'START SERVICE'**.
+3.  **AUTO-LOGIN:** The system will automatically detect the portal and log you in using the shared pool.
+4.  **MANUAL:** To use your own ID, enter it in 'Manual Cache' and click 'Inj'. Hover over the **'?'** for more info.
+5.  **CONTRIBUTE:** Help others by adding working accounts in the Contribute tab (if offline).
 
 ## ⚠️ Disclaimer
 This software is developed for **educational purposes** to demonstrate network automation and state management. It is intended to assist students in maintaining a stable connection for academic work. The developer is not responsible for misuse of this tool.
