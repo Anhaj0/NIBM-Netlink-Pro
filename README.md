@@ -1,6 +1,6 @@
 # NIBM Netlink Pro - Network Automation Suite
 
-**Automated connectivity management and fault-tolerance system for NIBM students.**
+**Automated connectivity management and fault-tolerance system for NIBM students, developed by [Anhaj Uwaisulkarni](https://anhaj0.github.io/).**
 
 ![Status](https://img.shields.io/badge/Status-Stable_v4.7-success) ![Platform](https://img.shields.io/badge/Platform-Windows_10%2F11-blue) ![Security](https://img.shields.io/badge/Security-Enterprise_Grade-shield)
 
@@ -42,5 +42,5 @@
 This software is developed for **educational purposes** to demonstrate network automation and state management. It is intended to assist students in maintaining a stable connection for academic work. The developer is not responsible for misuse of this tool.
 
 ---
-**Developed by Anhaj**
-[GitHub](https://github.com/Anhaj0) | [LinkedIn](https://www.linkedin.com/in/anhaj-uwaisulkarni-1781a8308/)
+**Developed by [Anhaj Uwaisulkarni](https://anhaj0.github.io/)**  
+[Personal Website](https://anhaj0.github.io/) | [GitHub](https://github.com/Anhaj0) | [LinkedIn](https://www.linkedin.com/in/anhaj-uwaisulkarni)
